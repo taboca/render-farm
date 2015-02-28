@@ -1,2 +1,2 @@
 #!/bin/bash
-python _kill_telasocial.py
+python __kill_telasocial.py
