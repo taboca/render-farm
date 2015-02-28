@@ -20,14 +20,16 @@ cd installer
 
 ### Will install to /usr/lib/taboca/telasocial (bin)
 
-## Install basic frames to xvfb and avconv
-
-apt-get install -y xvfb imagemagick firefox x11-apps libab-tools 
 
 ## Mediator for http
 
 __install_mediator.sh
 /etc/init.d/telasocial start
+
+## Install lib av
+
+./render_install.sh
+
 
 
 
