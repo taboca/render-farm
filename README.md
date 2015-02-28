@@ -4,7 +4,8 @@ Install me
 
 * Setup keys
 * git clone git@github.com:taboca/dash.git
-
+* eval ssh-agent $SHELL
+* ssh-add ~root/.ssh/id_rsa_key 
 
 ## Install Tela Social simple client
 
