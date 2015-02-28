@@ -1,5 +1,11 @@
 # dash
 
+Install me
+
+* Setup keys
+* git clone git@github.com:taboca/dash.git
+
+
 ## Install Tela Social simple client
 
 git clone git@github.com:taboca/TelaSocial.git
