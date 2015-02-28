@@ -19,14 +19,8 @@ apt-get install -y xvfb imagemagick firefox x11-apps libab-tools
 
 ## Mediator for http
 
-apt-get install -y node npm
-
-git clone https://github.com/taboca/TelaSocial-Mediator.git
-
-cd TelaSocial-Mediator
-
-npm install
-
+__install_mediator.sh
+/etc/init.d/telasocial start
 
 
 
