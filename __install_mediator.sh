@@ -1,3 +1,4 @@
+apt-get update
 apt-get install -y nodejs npm
 git clone https://github.com/taboca/TelaSocial-Mediator.git
 cp -r ./mediator-app ./TelaSocial-Mediator/app
